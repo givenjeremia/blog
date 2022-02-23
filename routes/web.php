@@ -21,4 +21,9 @@ Route::get('/', function () {
     return view('welcome');
 });
 
-// TESTING
+Route::get('/', function () {
+    return view('welcome');
+});
+
+
+// TESTING 2222
